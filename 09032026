@@ -1,0 +1,7 @@
+TDF Weekly Journals: Week #1
+Topic: Mini-Me Building System Behavior
+
+I. To explore how LLM's think and respond to information, we prepared a series of questions and introductions to feed to the LLM.
+II. Manipulating LLM model without changing prompts, temperature, or knowledge base.
+  - Using these interactions to map these different parameters, and the effects they might have on an LLM.
+      e.g. different models use different formatting conventions, predictive text, and favored language/syntax (I think of GPT's incessant love for the em dash)
