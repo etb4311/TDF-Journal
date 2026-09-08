@@ -6,7 +6,7 @@ Welcome to my weekly TDF journal/repository!
 
 [09_01_26]
 
-[09_03_26](09_03_26)
+[09_03_26](09_03_26.md)
 
 [09_08_26]
 
