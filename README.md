@@ -2,7 +2,8 @@
 Welcome to my weekly TDF journal/repository! 
 
 # Outline
-[week 1](README.md#week-1-example-report-1)
+[090326](09032026)
+
 
 week 2
 
