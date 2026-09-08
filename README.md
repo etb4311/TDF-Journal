@@ -1,17 +1,14 @@
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
+# Hey it's Evan!
+Welcome to my weekly TDF journal/repository! 
 
 # Outline
 [week 1](README.md#week-1-example-report-1)
 
-week 2, etc...
+week 2
 
 ---
 
 # Github Background Information & Context
-If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
-
-This is your space to store project files, videos, PDFs, notes, images, etc., and (hopefully, neatly) organize so it's easy for viewers (and you!) to navigate. That said, it’s super easy for you to share any file or folder with us (your TDF instructional team) - just send us the link!  As a start, feel free to simply add images to the `/assets` folder, which is located [here](/assets). 
 
 The specific file that I’m typing into right now is the **README.md** for this repo. 
 ##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
