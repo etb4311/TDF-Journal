@@ -2,7 +2,7 @@
 Welcome to my weekly TDF journal/repository! 
 
 # Outline
-[090326](09032026)
+[09_03_26](09032026)
 
 
 week 2
