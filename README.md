@@ -10,6 +10,8 @@ Welcome to my weekly TDF journal/repository!
 
 [09_08_26](09_08_26.md)
 
+[09_10_26](09_10_26.md)
+
 ## Quick Links, compiled here for your convenience: ##
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
