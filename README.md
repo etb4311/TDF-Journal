@@ -2,7 +2,7 @@
 Welcome to my weekly TDF journal/repository! 
 
 # Outline
-[08_31_26](08_31_26.md)
+[08_27_26](08_27_26.md)
 
 [09_01_26](09_01_26.md)
 
