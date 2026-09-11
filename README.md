@@ -2,15 +2,22 @@
 Welcome to my weekly TDF journal/repository! 
 
 # Outline
-[08_27_26](08_27_26.md)
 
-[09_01_26](09_01_26.md)
+Week 1
 
-[09_03_26](09_03_26.md)
+[08_27_26](Week1/08_27_26.md)
 
-[09_08_26](09_08_26.md)
+Week 2
 
-[09_10_26](09_10_26.md)
+[09_01_26](Week2/09_01_26.md)
+
+[09_03_26](Week2/09_03_26.md)
+
+Week 3
+
+[09_08_26](Week3/09_08_26.md)
+
+[09_10_26](Week3/09_10_26.md)
 
 ## Quick Links, compiled here for your convenience: ##
 
