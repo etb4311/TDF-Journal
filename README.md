@@ -9,15 +9,15 @@ Welcome to my weekly TDF journal/repository!
 
 [Week 2](Week2)
 
-- [09.01.26:](Week2/09_01_26.md)  DesComp1
+- [09.01.26](Week2/09_01_26.md) - DesComp1
 
-- [09.03.26:](Week2/09_03_26.md) DesComp2
+- [09.03.26](Week2/09_03_26.md) - DesComp2
 
 [Week 3](Week3)
 
-- [09.08.26:](Week3/09_08_26.md) DesComp3
+- [09.08.26](Week3/09_08_26.md) - DesComp3
 
-- [09.10.26:](Week3/09_10_26.md) DesComp4
+- [09.10.26](Week3/09_10_26.md) - DesComp4
 
 [Week4](Week4)
 
