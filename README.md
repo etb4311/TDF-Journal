@@ -5,19 +5,23 @@ Welcome to my weekly TDF journal/repository!
 
 [Week 1](Week1)
 
-[08_27_26](Week1/08_27_26.md)
+- [08_27_26](Week1/08_27_26.md)
 
-Week 2
+[Week 2](Week2)
 
-[09_01_26](Week2/09_01_26.md)
+- [09_01_26](Week2/09_01_26.md)
 
-[09_03_26](Week2/09_03_26.md)
+- [09_03_26](Week2/09_03_26.md)
 
-Week 3
+[Week 3](Week3)
 
-[09_08_26](Week3/09_08_26.md)
+- [09_08_26](Week3/09_08_26.md)
 
-[09_10_26](Week3/09_10_26.md)
+- [09_10_26](Week3/09_10_26.md)
+
+[Week4](Week4)
+
+- [09_15_26]
 
 ## Quick Links, compiled here for your convenience: ##
 
