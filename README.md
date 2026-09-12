@@ -3,7 +3,7 @@ Welcome to my weekly TDF journal/repository!
 
 # Outline
 
-Week 1
+[Week 1](Week1)
 
 [08_27_26](Week1/08_27_26.md)
 
