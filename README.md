@@ -21,7 +21,7 @@ Welcome to my weekly TDF journal/repository!
 
 [Week4](Week4)
 
-- [09.15.26]
+- [09.15.26](Week4/09_15_26.md)
 
 ## Quick Links, compiled here for your convenience: ##
 
