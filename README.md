@@ -23,6 +23,10 @@ Welcome to my weekly TDF journal/repository!
 
 - [09.15.26](Week4/09_15_26.md)
 
+- [09.17.26](Week4/09_17_26.md)
+
+- [09.18.26](Week4/09_18_26.md) - Reliable Peer
+
 ## Quick Links, compiled here for your convenience: ##
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
