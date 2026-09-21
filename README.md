@@ -21,11 +21,9 @@ Welcome to my weekly TDF journal/repository!
 
 [Week4](Week4)
 
-- [09.15.26](Week4/09_15_26.md)
+- [09.15.26](Week4/09_15_26.md) - DesComp5
 
-- [09.17.26](Week4/09_17_26.md)
-
-- [09.18.26](Week4/09_18_26.md) - Reliable Peer
+- [09.17.26](Week4/09_17_26.md) - Mini-Me: Presentation
 
 ## Quick Links, compiled here for your convenience: ##
 
