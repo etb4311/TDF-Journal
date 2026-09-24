@@ -37,7 +37,7 @@ Welcome to my weekly TDF journal/repository!
 
 - [09.22.26](Week5/09_22_26.md) - Intro to Computer Vision
 
-- [09.24.26](Week4/09_24_26.md) - Computer Vision and Machine Learning
+- [09.24.26](Week5/09_24_26.md) - Computer Vision and Machine Learning
 
 ---
 
