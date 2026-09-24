@@ -7,11 +7,15 @@ Welcome to my weekly TDF journal/repository!
 
 - [08.27.26](Week1/08_27_26.md)
 
+--
+
 [Week 2](Week2)
 
 - [09.01.26](Week2/09_01_26.md) - DesComp1
 
 - [09.03.26](Week2/09_03_26.md) - DesComp2
+
+--
 
 [Week 3](Week3)
 
@@ -19,11 +23,23 @@ Welcome to my weekly TDF journal/repository!
 
 - [09.10.26](Week3/09_10_26.md) - DesComp4
 
+--
+
 [Week4](Week4)
 
 - [09.15.26](Week4/09_15_26.md) - DesComp5
 
 - [09.17.26](Week4/09_17_26.md) - Mini-Me: Presentation
+
+--
+
+[Week5](Week5)
+
+- [09.22.26](Week5/09_22_26.md) - Intro to Computer Vision
+
+- [09.24.26](Week4/09_24_26.md) - Computer Vision and Machine Learning
+
+--
 
 ## Quick Links, compiled here for your convenience: ##
 
