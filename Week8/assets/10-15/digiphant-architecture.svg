@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="672" viewBox="0 0 1000 672">
+<rect x="0" y="0" width="1000" height="672" fill="#f4f3f1"/>
+      
+
+      <!-- left column: people and cameras -->
+      <rect x="16" y="28" width="140" height="52" rx="6" fill="#ffffff" stroke="#b9b4bd" stroke-width="1.3"/>
+      <text x="86" y="50" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">3 performers</text>
+      <text x="86" y="68" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">seated, side by side</text>
+      <line x1="86" y1="80" x2="86" y2="98" fill="none" stroke="#17141a" stroke-width="1.3"/>
+
+      <rect x="16" y="100" width="140" height="56" rx="6" fill="#ffffff" stroke="#b9b4bd" stroke-width="1.3"/>
+      <text x="86" y="124" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Webcam</text>
+      <text x="86" y="142" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">MacBook Air camera</text>
+
+      <rect x="16" y="172" width="140" height="56" rx="6" fill="#ffffff" stroke="#c8102e" stroke-width="2" stroke-dasharray="5 4"/>
+      <text x="86" y="196" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">iPhone camera</text>
+      <text x="86" y="214" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Continuity: turn off</text>
+
+      <line x1="156" y1="128" x2="214" y2="128" fill="none" stroke="#17141a" stroke-width="1.3"/>
+      <text x="185" y="120" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">frames</text>
+
+      <!-- tracker zone -->
+      <rect x="200" y="40" width="300" height="520" rx="10" fill="none" stroke="#b9b4bd" stroke-width="1.2"/>
+      <text x="216" y="64" fill="#17141a" font-size="14" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Python tracker · bridge.py</text>
+      <text x="216" y="82" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Python 3.14 · MediaPipe 0.10.35</text>
+
+      <rect x="216" y="100" width="268" height="56" rx="6" fill="#ffffff" stroke="#b9b4bd" stroke-width="1.3"/>
+      <text x="350" y="124" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Pose Landmarker</text>
+      <text x="350" y="142" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">up to 4 bodies, every frame</text>
+      <line x1="350" y1="156" x2="350" y2="170" fill="none" stroke="#17141a" stroke-width="1.3"/>
+
+      <rect x="216" y="172" width="268" height="56" rx="6" fill="#ffffff" stroke="#b9b4bd" stroke-width="1.3"/>
+      <text x="350" y="196" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Performer assignment</text>
+      <text x="350" y="214" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">P1–P3 left to right; waits for all N</text>
+      <line x1="350" y1="228" x2="350" y2="242" fill="none" stroke="#17141a" stroke-width="1.3"/>
+
+      <rect x="216" y="244" width="268" height="56" rx="6" fill="#ffffff" stroke="#b9b4bd" stroke-width="1.3"/>
+      <text x="350" y="268" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Movement signals</text>
+      <text x="350" y="286" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">6 per person: hands, feet, lean, spread</text>
+
+      <rect x="216" y="316" width="268" height="56" rx="6" fill="#ffffff" stroke="#c8102e" stroke-width="2"/>
+      <text x="350" y="340" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Gesture Recognizer</text>
+      <text x="350" y="358" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">fist, peace sign · 2 hands per person</text>
+
+      <rect x="216" y="388" width="268" height="56" rx="6" fill="#ffffff" stroke="#c8102e" stroke-width="2"/>
+      <text x="350" y="412" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Object Detector</text>
+      <text x="350" y="430" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">"cell phone" · about 3 times a second</text>
+
+      <rect x="216" y="460" width="268" height="56" rx="6" fill="#ffffff" stroke="#b9b4bd" stroke-width="1.3"/>
+      <text x="350" y="484" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Preview frame</text>
+      <text x="350" y="502" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">skeletons and labels, as JPEG</text>
+
+      <!-- unity zone -->
+      <rect x="620" y="40" width="364" height="520" rx="10" fill="none" stroke="#b9b4bd" stroke-width="1.2"/>
+      <text x="636" y="64" fill="#17141a" font-size="14" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Unity Editor · TeamDeadweight scene</text>
+      <text x="636" y="82" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Unity 6000.6.3f1 · URP · savannah course</text>
+
+      <rect x="636" y="100" width="332" height="56" rx="6" fill="#ffffff" stroke="#c8102e" stroke-width="2"/>
+      <text x="802" y="124" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Course Camera + Deadweight Theme</text>
+      <text x="802" y="142" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">chase view, minimap, punk UI</text>
+
+      <rect x="636" y="172" width="332" height="56" rx="6" fill="#ffffff" stroke="#c8102e" stroke-width="2"/>
+      <text x="802" y="196" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Locomotion + Hand Motors</text>
+      <text x="802" y="214" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">P1 walks and turns · stage radius 50</text>
+      <line x1="802" y1="244" x2="802" y2="230" fill="none" stroke="#17141a" stroke-width="1.3"/>
+
+      <rect x="636" y="244" width="332" height="56" rx="6" fill="#ffffff" stroke="#b9b4bd" stroke-width="1.3"/>
+      <text x="802" y="268" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">DigiPhant Controller</text>
+      <text x="802" y="286" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">receive · calibrate · map to the rig</text>
+
+      <rect x="636" y="316" width="332" height="56" rx="6" fill="#ffffff" stroke="#c8102e" stroke-width="2"/>
+      <text x="802" y="340" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Gesture Actions</text>
+      <text x="802" y="358" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">P2: fist → eat, peace sign → drink</text>
+
+      <rect x="636" y="388" width="332" height="56" rx="6" fill="#ffffff" stroke="#c8102e" stroke-width="2"/>
+      <text x="802" y="412" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Phone Drift</text>
+      <text x="802" y="430" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">P3 phone → low-grip slide</text>
+
+      <rect x="636" y="460" width="332" height="56" rx="6" fill="#ffffff" stroke="#b9b4bd" stroke-width="1.3"/>
+      <text x="802" y="484" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Camera Preview</text>
+      <text x="802" y="502" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">starts the tracker · shows the feed</text>
+
+      <!-- ports -->
+      <line x1="484" y1="264" x2="634" y2="264" fill="none" stroke="#17141a" stroke-width="1.3"/>
+      <text x="560" y="257" text-anchor="middle" fill="#17141a" font-size="11" font-weight="600" font-family="IBM Plex Mono, Menlo, monospace">5055 · tracking</text>
+      <line x1="634" y1="284" x2="486" y2="284" fill="none" stroke="#17141a" stroke-width="1.3"/>
+      <text x="560" y="300" text-anchor="middle" fill="#17141a" font-size="11" font-weight="600" font-family="IBM Plex Mono, Menlo, monospace">5056 · commands</text>
+
+      <line x1="484" y1="344" x2="634" y2="344" fill="none" stroke="#c8102e" stroke-width="1.6"/>
+      <text x="560" y="337" text-anchor="middle" fill="#17141a" font-size="11" font-weight="600" font-family="IBM Plex Mono, Menlo, monospace">5058 · gestures</text>
+
+      <line x1="484" y1="416" x2="634" y2="416" fill="none" stroke="#c8102e" stroke-width="1.6"/>
+      <text x="560" y="409" text-anchor="middle" fill="#17141a" font-size="11" font-weight="600" font-family="IBM Plex Mono, Menlo, monospace">5059 · phone</text>
+
+      <line x1="484" y1="478" x2="634" y2="478" fill="none" stroke="#17141a" stroke-width="1.3"/>
+      <text x="560" y="471" text-anchor="middle" fill="#17141a" font-size="11" font-weight="600" font-family="IBM Plex Mono, Menlo, monospace">5057 · preview</text>
+      <line x1="634" y1="500" x2="502" y2="500" fill="none" stroke="#17141a" stroke-width="1.3" stroke-dasharray="5 4"/>
+      <text x="560" y="516" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">starts the process</text>
+
+      <!-- outputs -->
+      <line x1="706" y1="560" x2="706" y2="598" fill="none" stroke="#17141a" stroke-width="1.3"/>
+      <rect x="620" y="600" width="172" height="56" rx="6" fill="#ffffff" stroke="#b9b4bd" stroke-width="1.3"/>
+      <text x="706" y="624" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Game view</text>
+      <text x="706" y="642" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">elephant on the course</text>
+
+      <line x1="898" y1="560" x2="898" y2="598" fill="none" stroke="#17141a" stroke-width="1.3"/>
+      <rect x="812" y="600" width="172" height="56" rx="6" fill="#ffffff" stroke="#b9b4bd" stroke-width="1.3"/>
+      <text x="898" y="624" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">MP4 recording</text>
+      <text x="898" y="642" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">upload to Drive by hand</text>
+
+      <!-- tank battle alternate -->
+      <line x1="350" y1="560" x2="350" y2="598" fill="none" stroke="#17141a" stroke-width="1.3" stroke-dasharray="5 4"/>
+      <text x="358" y="584" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">swapped in for</text>
+      <rect x="200" y="600" width="300" height="56" rx="6" fill="#ffffff" stroke="#c8102e" stroke-width="2" stroke-dasharray="5 4"/>
+      <text x="350" y="624" text-anchor="middle" fill="#17141a" font-size="13" font-weight="600" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">Tank Battle tracker</text>
+      <text x="350" y="642" text-anchor="middle" fill="#5d5862" font-size="11" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">tank_bridge.py · 3 camera lanes, same ports</text>
+    
+<polygon points="86.0,98.0 81.5,89.0 90.5,89.0" fill="#17141a"/>
+<polygon points="214.0,128.0 205.0,132.5 205.0,123.5" fill="#17141a"/>
+<polygon points="350.0,170.0 345.5,161.0 354.5,161.0" fill="#17141a"/>
+<polygon points="350.0,242.0 345.5,233.0 354.5,233.0" fill="#17141a"/>
+<polygon points="802.0,230.0 806.5,239.0 797.5,239.0" fill="#17141a"/>
+<polygon points="634.0,264.0 625.0,268.5 625.0,259.5" fill="#17141a"/>
+<polygon points="486.0,284.0 495.0,279.5 495.0,288.5" fill="#17141a"/>
+<polygon points="634.0,344.0 625.0,348.5 625.0,339.5" fill="#c8102e"/>
+<polygon points="634.0,416.0 625.0,420.5 625.0,411.5" fill="#c8102e"/>
+<polygon points="634.0,478.0 625.0,482.5 625.0,473.5" fill="#17141a"/>
+<polygon points="502.0,500.0 511.0,495.5 511.0,504.5" fill="#17141a"/>
+<polygon points="706.0,598.0 701.5,589.0 710.5,589.0" fill="#17141a"/>
+<polygon points="898.0,598.0 893.5,589.0 902.5,589.0" fill="#17141a"/>
+</svg>

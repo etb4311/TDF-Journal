@@ -41,6 +41,20 @@ Welcome to my weekly TDF journal/repository!
 
 ---
 
+[Week7](Week7)
+
+- [10.08.26](Week7/10_08_26.md) - DigiPhant: Setup and Three-Person Controls
+
+---
+
+[Week8](Week8)
+
+- [10.13.26](Week8/10_13_26.md) - DigiPhant: Course Camera, Interface and Tank Battle
+
+- [10.15.26](Week8/10_15_26.md) - DigiPhant: System Diagrams
+
+---
+
 ## Quick Links, compiled here for your convenience: ##
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
