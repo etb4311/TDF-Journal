@@ -75,7 +75,7 @@ Welcome to my weekly TDF journal/repository!
 
 - [11.03.26](Week11/11_03_26.md) - Expressive Mechanics: Kickoff + Candy Catapult
 
-- [11.05.26](Week11/11_05_26.md) - Expressive Mechanics: Servos + Building the Catapult
+- [11.05.26](Week11/11_05_26.md) - Sunburst Ring (3D Print) + Building the Catapult
 
 ---
 
