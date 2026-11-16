@@ -3,63 +3,63 @@ Welcome to my weekly TDF journal/repository!
 
 # Outline
 
-[Week 1](Week1)
+[Week 1](Week01)
 
-- [08.27.26](Week1/08_27_26.md)
-
----
-
-[Week 2](Week2)
-
-- [09.01.26](Week2/09_01_26.md) - DesComp1
-
-- [09.03.26](Week2/09_03_26.md) - DesComp2
+- [08.27.26](Week01/08_27_26.md)
 
 ---
 
-[Week 3](Week3)
+[Week 2](Week02)
 
-- [09.08.26](Week3/09_08_26.md) - DesComp3
+- [09.01.26](Week02/09_01_26.md) - DesComp1
 
-- [09.10.26](Week3/09_10_26.md) - DesComp4
-
----
-
-[Week4](Week4)
-
-- [09.15.26](Week4/09_15_26.md) - DesComp5
-
-- [09.17.26](Week4/09_17_26.md) - Mini-Me: Presentation
+- [09.03.26](Week02/09_03_26.md) - DesComp2
 
 ---
 
-[Week5](Week5)
+[Week 3](Week03)
 
-- [09.22.26](Week5/09_22_26.md) - Intro to Computer Vision
+- [09.08.26](Week03/09_08_26.md) - DesComp3
 
-- [09.24.26](Week5/09_24_26.md) - Computer Vision and Machine Learning
-
----
-
-[Week7](Week7)
-
-- [10.08.26](Week7/10_08_26.md) - DigiPhant: Setup and Three-Person Controls
+- [09.10.26](Week03/09_10_26.md) - DesComp4
 
 ---
 
-[Week8](Week8)
+[Week4](Week04)
 
-- [10.13.26](Week8/10_13_26.md) - DigiPhant: Course Camera, Interface and Tank Battle
+- [09.15.26](Week04/09_15_26.md) - DesComp5
 
-- [10.15.26](Week8/10_15_26.md) - DigiPhant: System Diagrams
+- [09.17.26](Week04/09_17_26.md) - Mini-Me: Presentation
 
 ---
 
-[Week9](Week9)
+[Week5](Week05)
 
-- [10.20.26](Week9/10_20_26.md) - PhysComp1: Kickoff + Arduino Basics
+- [09.22.26](Week05/09_22_26.md) - Intro to Computer Vision
 
-- [10.22.26](Week9/10_22_26.md) - PhysComp2: Laser Cutting + Ring Prep
+- [09.24.26](Week05/09_24_26.md) - Computer Vision and Machine Learning
+
+---
+
+[Week7](Week07)
+
+- [10.08.26](Week07/10_08_26.md) - DigiPhant: Setup and Three-Person Controls
+
+---
+
+[Week8](Week08)
+
+- [10.13.26](Week08/10_13_26.md) - DigiPhant: Course Camera, Interface and Tank Battle
+
+- [10.15.26](Week08/10_15_26.md) - DigiPhant: System Diagrams
+
+---
+
+[Week9](Week09)
+
+- [10.20.26](Week09/10_20_26.md) - PhysComp1: Kickoff + Arduino Basics
+
+- [10.22.26](Week09/10_22_26.md) - PhysComp2: Laser Cutting + Ring Prep
 
 ---
 
