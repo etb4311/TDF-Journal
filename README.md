@@ -55,6 +55,38 @@ Welcome to my weekly TDF journal/repository!
 
 ---
 
+[Week9](Week9)
+
+- [10.20.26](Week9/10_20_26.md) - PhysComp1: Kickoff + Arduino Basics
+
+- [10.22.26](Week9/10_22_26.md) - PhysComp2: Laser Cutting + Ring Prep
+
+---
+
+[Week10](Week10)
+
+- [10.27.26](Week10/10_27_26.md) - PhysComp3: More Arduino
+
+- [10.29.26](Week10/10_29_26.md) - PhysComp4: Green Lantern Ring + 3D Printing
+
+---
+
+[Week11](Week11)
+
+- [11.03.26](Week11/11_03_26.md) - Expressive Mechanics: Kickoff + Candy Catapult
+
+- [11.05.26](Week11/11_05_26.md) - Expressive Mechanics: Servos + Building the Catapult
+
+---
+
+[Week12](Week12)
+
+- [11.10.26](Week12/11_10_26.md) - Expressive Mechanics: Catapult Iterations
+
+- [11.12.26](Week12/11_12_26.md) - Expressive Mechanics Critique: The Pivot to Horn Drone
+
+---
+
 ## Quick Links, compiled here for your convenience: ##
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
